@@ -31,12 +31,19 @@ resource "aws_s3_bucket" "my_bucket" {
 | --- | --- |
 |Task 2 | Set up Gitlab |
 |Task 3 | Set up Terraform Cloud |
-|Task 4 | |
+
 
 - [x] Finish Task 1
-- [ ] Finish Task 2
+- [x] Finish Task 2
+- [ ] Finish Task 3
 
 ## Week  1 Getting Comfortable with Terraform and Terraform Cloud
+|Task 4 | Create Terrahouse Module|
+|Task 5 |Static Website Hosting |
+
+
+- [ ] Finish Task 4
+- [ ] Finish Task 5
 
 - State management
 - Changesets
@@ -44,6 +51,13 @@ resource "aws_s3_bucket" "my_bucket" {
 - Configuration launch scripts eg. .Gitpod.yml files
 
 ## Week 2 Launching and Connecting our Terra house to TerraTowns
+|Task 6 |Setting up Terratowns |
+|Task 7 | Terraform cloud and Multi Home Refactor |
+
+
+- [ ] Finish Task 6
+- [ ] Finish Task 7
+
 ## Reference 
 - [Terraform getting started](https://app.terraform.io/app/getting-started) <sup>[1]</sup>
 - [Github Flavored Markdown](https://github.github.com/gfm/#backtick-string) <sup>[2]</sup>
