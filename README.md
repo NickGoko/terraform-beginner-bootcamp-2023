@@ -37,18 +37,6 @@ resource "aws_s3_bucket" "my_bucket" {
 - [x] Finish Task 2
 - [ ] Finish Task 3
 
-## Semantic Versioning. 
-The general format:  
-This project is going to utilise semantic versioning for its tagging.
-[semver.org](https://semver.org/)
-
-**MAJOR.MINOR.PATCH**, e.g `1.0.1`
-
-- **MAJOR** version when you make incompatible API changes
-- **MINOR** version when you add functionality in a backward compatible manner
-- **PATCH** version when you make backward compatible bug fixes
-
----  
 ## Week  1 Getting Comfortable with Terraform and Terraform Cloud
 
 |Task 4 | Create Terrahouse Module|
