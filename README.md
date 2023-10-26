@@ -26,7 +26,7 @@ resource "aws_s3_bucket" "my_bucket" {
   acl    = "private"              # Access control settings
 }
 ```
-| --- | --- |
+
 |Task 1 |Create Github Repo & write up some documentation using Github Flavored Markdown |
 | --- | --- |
 |Task 2 | Set up Gitlab |
