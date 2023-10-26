@@ -2,7 +2,7 @@
 
 <img width="300px" src="https://github.com/NickGoko/terraform-beginner-bootcamp-2023/assets/61675328/066397d8-64d2-4ea2-9398-7b2ba63b5576">
 
-## Week 0 Prerequisite Week
+## Week 0 Prerequisite Week & Project Prep
 
 - **Why Terraform**
 
@@ -37,7 +37,20 @@ resource "aws_s3_bucket" "my_bucket" {
 - [x] Finish Task 2
 - [ ] Finish Task 3
 
+## Semantic Versioning. 
+The general format:  
+This project is going to utilise semantic versioning for its tagging.
+[semver.org](https://semver.org/)
+
+**MAJOR.MINOR.PATCH**, e.g `1.0.1`
+
+- **MAJOR** version when you make incompatible API changes
+- **MINOR** version when you add functionality in a backward compatible manner
+- **PATCH** version when you make backward compatible bug fixes
+
+---  
 ## Week  1 Getting Comfortable with Terraform and Terraform Cloud
+
 |Task 4 | Create Terrahouse Module|
 | --- | --- |
 |Task 5 |Static Website Hosting |
@@ -50,7 +63,7 @@ resource "aws_s3_bucket" "my_bucket" {
 - Changesets
 - Launching and Stop a Gitpod Workspace
 - Configuration launch scripts eg. .Gitpod.yml files
-
+---
 ## Week 2 Launching and Connecting our Terra house to TerraTowns
 |Task 6 |Setting up Terratowns |
 | --- | --- |
