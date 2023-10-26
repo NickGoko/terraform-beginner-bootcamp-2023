@@ -39,6 +39,7 @@ resource "aws_s3_bucket" "my_bucket" {
 
 ## Week  1 Getting Comfortable with Terraform and Terraform Cloud
 |Task 4 | Create Terrahouse Module|
+| --- | --- |
 |Task 5 |Static Website Hosting |
 
 
@@ -52,6 +53,7 @@ resource "aws_s3_bucket" "my_bucket" {
 
 ## Week 2 Launching and Connecting our Terra house to TerraTowns
 |Task 6 |Setting up Terratowns |
+| --- | --- |
 |Task 7 | Terraform cloud and Multi Home Refactor |
 
 
