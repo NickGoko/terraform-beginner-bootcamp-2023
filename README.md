@@ -73,7 +73,7 @@ PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-poli
 UBUNTU_CODENAME=jammy
 ```
 ### Gitpod lifecyle (Before, init, command)
-We need to be careful when using the Init because it will not rerun if we restart an existing workspace. 
+We need to be careful when using the Init in our .yml file because it will not rerun if we restart an existing workspace. 
 
 [Gitpod Lifecycle](https://www.gitpod.io/docs/configure/workspaces/tasks)
 ## Week  1 Getting Comfortable with Terraform and Terraform Cloud
