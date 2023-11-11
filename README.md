@@ -1,6 +1,5 @@
 # Terraform-beginner-bootcamp-2023
 
-<img width="300px" src="https://github.com/NickGoko/terraform-beginner-bootcamp-2023/assets/61675328/066397d8-64d2-4ea2-9398-7b2ba63b5576">
 
 ## Week 0 Prerequisite Week & Project Prep
 
